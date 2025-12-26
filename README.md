@@ -1,94 +1,88 @@
-# Automobile Insurance Risk & Claims Analysis
+# Automobile Insurance Risk & Claims Analysis 🚗📊
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
-![Domain](https://img.shields.io/badge/Domain-Insurance-blue)
-![Type](https://img.shields.io/badge/Project-Data%20Analytics-green)
+![Analytics](https://img.shields.io/badge/Focus-Insurance%20Analytics-blue)
+![Level](https://img.shields.io/badge/Type-Portfolio%20Project-green)
 
-This repository contains an end-to-end **Power BI portfolio project** focused on analyzing automobile insurance claims and risk patterns.  
-The project supports **data-driven underwriting, pricing, and risk management decisions**.
+## Overview
 
----
-
-## 📌 Project Objective
-
-The objective of this project is to:
-- Analyze claim frequency and claim amounts
-- Identify high-risk customers and vehicles
-- Evaluate geographic risk exposure
-- Deliver actionable insights through interactive dashboards
+This repository contains a professional **Power BI portfolio project** focused on analyzing automobile insurance claims and risk patterns.  
+The project demonstrates how business intelligence can be applied to **risk assessment, underwriting, and pricing strategy**. 🔍💡
 
 ---
 
-## 📊 Dataset Overview
+## Business Objective 🎯
 
-![Dataset](https://cdn-icons-png.flaticon.com/512/2920/2920329.png)
-
-The dataset includes automobile insurance policyholder data such as:
-- Customer demographics (age, gender, marital status, education, income)
-- Vehicle details (make, model, year, usage)
-- Coverage zones (rural, urban, highly urban)
-- Claim frequency and claim amount
-
-**Total records:** ~37,500
+The goal of this project is to:
+- Analyze insurance claim frequency and claim amounts 📈
+- Identify high-risk customer and vehicle segments 🚘
+- Evaluate geographic risk exposure 🗺️
+- Support data-driven insurance decision-making 📊
 
 ---
 
-## 🛠 Tools & Technologies
+## Dataset Summary 🗂️
 
-![Tools](https://cdn-icons-png.flaticon.com/512/906/906334.png)
+- Domain: Automobile Insurance
+- Records: ~37,500
+- Granularity: Policyholder-level data
 
-- Power BI Desktop  
-- Power Query (ETL & data cleaning)  
-- DAX (KPIs and measures)  
-- Microsoft Excel (data source)
+### Key Data Attributes
+- Customer: Age, Gender, Marital Status, Education, Income 👤
+- Vehicle: Make, Model, Year, Usage (Private / Commercial) 🚗
+- Geography: Coverage Zone 🏙️
+- Claims: Claim Frequency, Claim Amount 💰
 
 ---
 
-## 📈 Key Analysis Areas
+## Tools & Technologies 🛠️
 
-![Analytics](https://cdn-icons-png.flaticon.com/512/1828/1828919.png)
+- Power BI Desktop
+- Power Query (data cleaning & transformation)
+- DAX (measures and KPIs)
+- Microsoft Excel
 
-- Executive overview of claims performance
+---
+
+## Analysis Scope 📊
+
+- Executive-level claims overview
 - Customer risk segmentation
 - Vehicle-based risk analysis
 - Geographic risk distribution
-- Claim frequency and severity trends
+- Claim frequency and severity analysis
 
 ---
 
-## 🔍 Key Insights
+## Key Insights 💡
 
-![Insights](https://cdn-icons-png.flaticon.com/512/2910/2910768.png)
-
-- Commercial vehicles show higher claim frequency
-- Highly urban zones contribute the highest claim costs
-- Younger drivers have higher claim frequency
-- Certain vehicle models consistently fall into high-risk segments
+- Commercial vehicles show higher claim frequency than private vehicles 🚚
+- Highly urban coverage zones contribute the highest claim costs 🌆
+- Younger drivers tend to have higher claim frequency 👶
+- Certain vehicle models consistently fall into high-risk categories 🚗⚠️
 
 ---
 
-## 💼 Business Value
+## Business Impact 📈
 
-![Business](https://cdn-icons-png.flaticon.com/512/3135/3135706.png)
-
-This project demonstrates how analytics can:
-- Improve underwriting decisions
-- Enable risk-based pricing
-- Reduce claim losses
-- Support executive decision-making
+This analysis enables insurance stakeholders to:
+- Improve underwriting accuracy ✔️
+- Implement risk-based pricing 💵
+- Reduce claim losses 🛡️
+- Identify profitable customer segments 💼
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements 🚀
 
-- Predictive risk scoring using machine learning
-- Fraud detection indicators
-- Deployment to Power BI Service
+- Predictive risk scoring using machine learning 🤖
+- Fraud detection indicators 🔎
+- Deployment to Power BI Service ☁️
 
 ---
 
-## 👤 Author
+## Author ✍️
 
-**Abdul Rahim**  
+**Risvana J A**  
 Aspiring Data & Business Analyst  
-UAE
+
